@@ -1,107 +1,60 @@
-<p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
-</p>
+# 🌌 Mundo Invertido — 
 
--------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+Bem-vindo ao **Mundo Invertido**, um projeto inspirado no universo de *Stranger Things*.  
+O objetivo desta aplicação é praticar conceitos fundamentais de **HTML**, **CSS** e **JavaScript**, criando uma experiência imersiva e interativa para o usuário.
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
-## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+---
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - Acessibilidade
-    - Web Scraping
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-elementos
-    - Pseudo-classes
-    - Flexbox
-    - Animações 
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
+## 🚀 Sobre o Projeto
 
-## 🎨 Variáveis do Tema CSS
-```css
-/*** VARIABLES & THEMES ***/
+A landing page apresenta um ambiente temático que permite ao usuário **alternar entre o mundo normal e o mundo invertido** por meio de um botão de troca de tema (*light/dark mode*).  
+Também conta com:
 
-:root {
-  --primary-color: #cf0f0f;
-  --primary-color-contrast: #ffffff;
-  --field-background-color: #000;
-}
+- 🎧 **Áudio ambiente automático**
+- 🖼️ **Imagens invertidas dinamicamente**
+- 🎬 **Trailer incorporado da série**
+- 🖼️ **Galeria temática**
+- 🧙‍♂️ **Formulário inspirado no Clube de D&D da série**
+- 📱 **Responsividade para diferentes dispositivos**
 
-.light-theme {
-  --page-background: linear-gradient(
-    180deg,
-    #ffffff 0%,
-    #ffffff 65%,
-    rgba(255, 255, 255, 0.75) 100%
-  );
-  --header-background-color: #e3e3e3;
-  --highlight-color: #000000;
-  --featured-font-family: "Archivo", sans-serif;
-  --character-top-image-src: url("../images/characters/kids-on-the-bike.svg");
-  --character-top-image-color: #ffffff;
-  --character-bottom-image-src: url("../images/characters/inverted-world-monster.svg");
-  --character-bottom-image-color: #e5e5e5;
-  --background-lamp-image: url("../images/backgrounds/lamps.png");
-  --footer-background-color: #b5bbbf;
-}
+---
 
-.dark-theme {
-  --page-background: linear-gradient(
-    180deg,
-    #050000 0%,
-    #130404 65%,
-    rgba(19, 1, 1, 0.75) 100%
-  );
-  --header-background-color: #220f0f;
-  --highlight-color: #ffffff;
-  --featured-font-family: "Rubik Glitch", sans-serif;
-  --character-bottom-image-src: url("../images/characters/kids-on-the-bike.svg");
-  --character-bottom-image-color: rgba(255, 255, 255, 0.1);
-  --character-top-image-src: url("../images/characters/inverted-world-monster.svg");
-  --character-top-image-color: #000;
-  --background-lamp-image: url("../images/backgrounds/lamps-inverted.png");
-  --footer-background-color: #000;
-}
-```
-## 🔗 Links auxiliares
+## 🛠️ Tecnologias Utilizadas
 
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
+- HTML5  
+- CSS3  
+- JavaScript  
+- Google Fonts
+
+---
+
+
+---
+
+## 🎮 Funcionalidades
+
+- **Switch Theme:** alterna entre *light theme* e *dark theme*, alterando fonte, cores e imagens.
+- **Efeitos visuais invertidos** sincronizados com o tema.
+- **Formulário estilizado** para inscrição no Clube de Dungeons & Dragons.
+- **Trailer da 4ª temporada de Stranger Things** incorporado via iframe.
+- **Galeria temática** com molduras e efeitos.
+
+---
+
+## 📸 Demonstração
+
+Basta abrir o arquivo **index.html** no navegador para visualizar todo o projeto em funcionamento.
+
+---
+
+## 📚 Objetivo Educacional
+
+Este projeto foi construído para fins **didáticos**, servindo como prática das habilidades aprendidas na trilha de **HTML, CSS e JavaScript** da DIO.
+
+---
+
+## 🧑‍💻 Autor
+
+Projeto desenvolvido como parte do desafio da **Digital Innovation One**.
+
+
